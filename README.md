@@ -30,10 +30,16 @@ All in one footprinting tool specially developed for termux users
   
 ## Installation
 
-Install my-project with npm
+Install the tool
 
-```bash
-  npm install my-project
-  cd my-project
+```cd $HOME
+wget https://raw.githubusercontent.com/BeatBurner/hunter_buster/master/install.sh
+chmod +x install.sh
+bash install.sh
 ```
-    
+ ## After Installation
+```
+h-buster
+```
+
+
