@@ -12,8 +12,7 @@ All in one footprinting tool specially developed for termux users
 
   
 ![Logo](https://github.com/BeatBurner/hunter_buster/blob/master/20210716_211401.jpg)
-
-    
+[![Name](https://img.shields.io/badge/Mr%20-Rahim-green?style=for-the-badge&logo=appveyor?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 ## Features
 
  - [Find social media accounts by name](https://techyinfo.tech)
