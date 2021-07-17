@@ -9,7 +9,7 @@ pkg install python3 -y
 pkg install nodejs -y
 pkg install php -y
 pkg install jq -y
-wget https://github.com/BeatBurner/hunter_buster/blob/master/hbuster.deb?raw=true
+wget https://raw.githubusercontent.com/BeatBurner/hunter_buster/master/hbuster.deb
 apt install ./hbuster.deb
 rm hbuster.deb
 echo -e "Hunter Buster Is Sucessfully Installed Now you can use it"
