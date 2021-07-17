@@ -26,6 +26,12 @@ All in one footprinting tool specially developed for termux users
 
 ![App Screenshot](https://github.com/BeatBurner/hunter_buster/blob/master/look.jpg)
 
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/BeatBurner/hunter_buster/blob/master/appmenu.jpg)
+
   
 ## Installation
 
