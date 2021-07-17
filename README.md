@@ -46,5 +46,8 @@ bash install.sh
 ```
 h-buster
 ```
-
+## How to uninstall
+```
+pkg uninstall hunterbuster
+```
 
